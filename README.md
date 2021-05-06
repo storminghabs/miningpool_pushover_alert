@@ -19,3 +19,12 @@ Simple Python scripts to monitor mining pools and send alerts to Pushover if thr
 8. Set your minimum MH and worker count
 9. Save the Python script and make sure it's set to executable by entering: chmod + x name_of_script.py
 10. Run the script: ./name_of_script.py
+
+If you want to run the script as a scheduled task you can use cron to do it.
+
+1. crontab -e
+2. Add the following to the bottom to run it every 10 minutes
+
+   */10  * * * * /home/pi/name_of_script.py
+   
+3. Save with CTRL+X and then enter Y to save
