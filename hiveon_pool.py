@@ -9,8 +9,9 @@ MINIMUM_WORKERS = "6"
 PUSHOVER_APP_TOKEN = "PUSHOVER APP TOKEN"
 PUSHOVER_USER_TOKEN = "PUSHOVER USER TOKEN"
 
-#making sure alert message is empty
+#Resetting variables
 alertMessage = ("")
+Alert = False
 
 url = "https://hiveon.net/api/v1/stats/miner/" + ETH_ADDRESS.lower() + "/ETH"
 
