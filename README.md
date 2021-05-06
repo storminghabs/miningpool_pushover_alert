@@ -8,8 +8,7 @@ Simple Python scripts to monitor mining pools and send alerts to Pushover if thr
     Name: Name of mining pool
 
     Upload a logo if you'd like. These ones work well  
-    Ethermine: https://play-lh.googleusercontent.com/yJuGQgN-K7Kyk0Vb_aO1Fz2F-i-pIon86JP1DqfBhzMz1Qnbg-OPuTdRdOVXXDvtTd4
-    
+    Ethermine: https://play-lh.googleusercontent.com/yJuGQgN-K7Kyk0Vb_aO1Fz2F-i-pIon86JP1DqfBhzMz1Qnbg-OPuTdRdOVXXDvtTd4  
     Hiveon: https://cdn-images-1.medium.com/max/1200/1*FcfR0dcdGWBDhtyW2tu86g.png
 
     Check the checkbox to agree to Terms of Service
