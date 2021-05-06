@@ -1,5 +1,5 @@
 # miningpool_pushover_alert
-Simple Python scripts to monitor mining pools and send alerts to Pushover if thresholds are met. Created this to run on a Raspberry Pi but should work on any Linux distro with Python 2.7
+Simple Python scripts to monitor mining pools and send alerts to Pushover if thresholds are met. Created this to run on a Raspberry Pi but should work on any Linux distro with Python 2.7.
 
 1. Login to Pushover.net or create an account if you don't have one
 2. Install the IOS or Android app and login to Pushover
